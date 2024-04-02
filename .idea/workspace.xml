@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a2033cbf-0bf0-4b5e-ad81-1a5e1308e415" name="Changes" comment="Added test for countOf added">
+    <list default="true" id="a2033cbf-0bf0-4b5e-ad81-1a5e1308e415" name="Changes" comment="Removed test for countOf added">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/ArrayUtilsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ArrayUtilsTest.java" afterDir="false" />
     </list>
@@ -53,6 +53,7 @@
   "keyToString": {
     "Gradle.ArrayUtilsTest.executor": "Run",
     "Gradle.ci-helloworld [jacocoTestReport].executor": "Run",
+    "JavaScript Debug.index.html (1).executor": "Run",
     "JavaScript Debug.index.html.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -66,7 +67,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Gradle.ArrayUtilsTest">
+  <component name="RunManager" selected="JavaScript Debug.index.html">
     <configuration name="ArrayUtilsTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -113,6 +114,9 @@
       <RunAsTest>false</RunAsTest>
       <method v="2" />
     </configuration>
+    <configuration name="index.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/ci-helloworld/build/reports/tests/test/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
     <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/ci-helloworld/build/reports/jacoco/test/html/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
@@ -133,8 +137,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Gradle.ArrayUtilsTest" />
         <item itemvalue="JavaScript Debug.index.html" />
+        <item itemvalue="JavaScript Debug.index.html (1)" />
+        <item itemvalue="Gradle.ArrayUtilsTest" />
         <item itemvalue="Gradle.ci-helloworld [jacocoTestReport]" />
         <item itemvalue="Shell Script.gradlew" />
       </list>
@@ -149,7 +154,7 @@
       <option name="presentableId" value="Default" />
       <updated>1712005457124</updated>
       <workItem from="1712005458263" duration="2221000" />
-      <workItem from="1712007714608" duration="5397000" />
+      <workItem from="1712007714608" duration="6469000" />
     </task>
     <task id="LOCAL-00001" summary="added ArrayUtils.java, ArrayUtilsTest.java, and imports.">
       <option name="closed" value="true" />
@@ -223,7 +228,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712020677385</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Removed test for countOf added">
+      <option name="closed" value="true" />
+      <created>1712021121980</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1712021121980</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -245,8 +258,8 @@
     <MESSAGE value="Dockerfile added" />
     <MESSAGE value="ArrayUtils countOf added" />
     <MESSAGE value="Test for countOf added" />
-    <MESSAGE value="Removed test for countOf added" />
     <MESSAGE value="Added test for countOf added" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added test for countOf added" />
+    <MESSAGE value="Removed test for countOf added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Removed test for countOf added" />
   </component>
 </project>
