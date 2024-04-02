@@ -5,7 +5,35 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a2033cbf-0bf0-4b5e-ad81-1a5e1308e415" name="Changes" comment="Added test for countOf added">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/jacoco/test/html/default/ArrayUtils.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/jacoco/test/html/default/ArrayUtils.java.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/jacoco/test/html/default/Main.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/jacoco/test/html/default/Main.java.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/jacoco/test/html/default/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/jacoco/test/html/default/index.source.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/jacoco/test/html/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/jacoco/test/html/jacoco-resources/branchfc.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/jacoco/test/html/jacoco-resources/branchnc.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/jacoco/test/html/jacoco-resources/branchpc.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/jacoco/test/html/jacoco-resources/bundle.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/jacoco/test/html/jacoco-resources/class.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/jacoco/test/html/jacoco-resources/down.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/jacoco/test/html/jacoco-resources/greenbar.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/jacoco/test/html/jacoco-resources/group.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/jacoco/test/html/jacoco-resources/method.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/jacoco/test/html/jacoco-resources/package.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/jacoco/test/html/jacoco-resources/prettify.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/jacoco/test/html/jacoco-resources/prettify.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/jacoco/test/html/jacoco-resources/redbar.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/jacoco/test/html/jacoco-resources/report.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/jacoco/test/html/jacoco-resources/report.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/jacoco/test/html/jacoco-resources/session.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/jacoco/test/html/jacoco-resources/sort.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/jacoco/test/html/jacoco-resources/sort.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/jacoco/test/html/jacoco-resources/source.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/jacoco/test/html/jacoco-resources/up.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/jacoco/test/html/jacoco-sessions.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/jacoco/test/jacocoTestReport.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -154,7 +182,7 @@
       <option name="presentableId" value="Default" />
       <updated>1712005457124</updated>
       <workItem from="1712005458263" duration="2221000" />
-      <workItem from="1712007714608" duration="6919000" />
+      <workItem from="1712007714608" duration="7102000" />
     </task>
     <task id="LOCAL-00001" summary="added ArrayUtils.java, ArrayUtilsTest.java, and imports.">
       <option name="closed" value="true" />
@@ -244,7 +272,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712022223331</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Added test for countOf added">
+      <option name="closed" value="true" />
+      <created>1712022666512</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1712022666512</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
