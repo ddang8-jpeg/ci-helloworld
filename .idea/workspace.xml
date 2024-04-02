@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a2033cbf-0bf0-4b5e-ad81-1a5e1308e415" name="Changes" comment="ArrayUtils countOf added">
+    <list default="true" id="a2033cbf-0bf0-4b5e-ad81-1a5e1308e415" name="Changes" comment="Test for countOf added">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/ArrayUtilsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ArrayUtilsTest.java" afterDir="false" />
     </list>
@@ -51,6 +51,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Gradle.ArrayUtilsTest.executor": "Run",
     "Gradle.ci-helloworld [jacocoTestReport].executor": "Run",
     "JavaScript Debug.index.html.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -65,7 +66,31 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="JavaScript Debug.index.html">
+  <component name="RunManager" selected="Gradle.ArrayUtilsTest">
+    <configuration name="ArrayUtilsTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;ArrayUtilsTest&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>true</RunAsTest>
+      <method v="2" />
+    </configuration>
     <configuration name="ci-helloworld [jacocoTestReport]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -108,6 +133,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.ArrayUtilsTest" />
         <item itemvalue="JavaScript Debug.index.html" />
         <item itemvalue="Gradle.ci-helloworld [jacocoTestReport]" />
         <item itemvalue="Shell Script.gradlew" />
@@ -123,7 +149,7 @@
       <option name="presentableId" value="Default" />
       <updated>1712005457124</updated>
       <workItem from="1712005458263" duration="2221000" />
-      <workItem from="1712007714608" duration="3705000" />
+      <workItem from="1712007714608" duration="4527000" />
     </task>
     <task id="LOCAL-00001" summary="added ArrayUtils.java, ArrayUtilsTest.java, and imports.">
       <option name="closed" value="true" />
@@ -165,7 +191,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712015482411</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Test for countOf added">
+      <option name="closed" value="true" />
+      <created>1712016464946</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1712016464946</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -186,6 +220,7 @@
     <MESSAGE value="added ArrayUtils.java, ArrayUtilsTest.java, and imports." />
     <MESSAGE value="Dockerfile added" />
     <MESSAGE value="ArrayUtils countOf added" />
-    <option name="LAST_COMMIT_MESSAGE" value="ArrayUtils countOf added" />
+    <MESSAGE value="Test for countOf added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Test for countOf added" />
   </component>
 </project>
